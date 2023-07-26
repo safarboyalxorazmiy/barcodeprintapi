@@ -1,6 +1,6 @@
-package com.fridge.Printer;
+package com.fridge.printer;
 
-import com.fridge.Printer.dto.PrintRequestDTO;
+import com.fridge.printer.dto.PrintRequestDTO;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;

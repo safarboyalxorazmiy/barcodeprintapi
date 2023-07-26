@@ -1,4 +1,4 @@
-package com.fridge.Printer.dto;
+package com.fridge.printer.dto;
 
 import lombok.Data;
 

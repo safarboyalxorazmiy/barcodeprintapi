@@ -1,6 +1,6 @@
-package com.fridge.Printer;
+package com.fridge.printer;
 
-import com.fridge.Printer.dto.PrintRequestDTO;
+import com.fridge.printer.dto.PrintRequestDTO;
 import org.springframework.stereotype.Service;
 
 import java.awt.*;
