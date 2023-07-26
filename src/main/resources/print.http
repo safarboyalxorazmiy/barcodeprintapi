@@ -1,0 +1,17 @@
+POST http://localhost:1111/printer/print
+Content-Type: application/json
+
+{
+  "password": "Grechka4kg$",
+  "orderId": "0000000"
+}
+
+###
+
+POST http://localhost:8080/moveMouse
+Content-Type: application/json
+
+{
+"x": 1000,
+"y": 1000
+}
